@@ -1,0 +1,11 @@
+{
+  "name": "DXC-WSM",
+  "short_name": "DXC-WSM",
+  "theme_color": "#488aff",
+  "background_color": "#488aff",
+  "scope": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "configVersion": 1,
+  "timestamp": 1589250431472,
+  "index": "/test-angular-github-pages/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/test-angular-github-pages/dxc.ico",
+        "/test-angular-github-pages/index.html",
+        "/test-angular-github-pages/main-es2015.424e2310ff7b8b498dd5.js",
+        "/test-angular-github-pages/main-es5.424e2310ff7b8b498dd5.js",
+        "/test-angular-github-pages/manifest.json",
+        "/test-angular-github-pages/polyfills-es2015.0a605b9b77b7187e39e6.js",
+        "/test-angular-github-pages/polyfills-es5.4d5edb2c6f4be45c0a91.js",
+        "/test-angular-github-pages/runtime-es2015.1eba213af0b233498d9d.js",
+        "/test-angular-github-pages/runtime-es5.1eba213af0b233498d9d.js",
+        "/test-angular-github-pages/styles.308ee81a3ecb050cc8d0.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/test-angular-github-pages/assets/images/logo-hz.png",
+        "/test-angular-github-pages/assets/images/my-island.png",
+        "/test-angular-github-pages/fa-brands-400.31015e861aeb30ff8355.woff2",
+        "/test-angular-github-pages/fa-brands-400.5818bbd07dfd7095920a.ttf",
+        "/test-angular-github-pages/fa-brands-400.607a77859353c0cc1882.eot",
+        "/test-angular-github-pages/fa-brands-400.ee26f57bc9e3619b022b.woff",
+        "/test-angular-github-pages/fa-regular-400.0747be4cba2f8600544f.eot",
+        "/test-angular-github-pages/fa-regular-400.8b892b7904a39e37c53d.woff",
+        "/test-angular-github-pages/fa-regular-400.c3146b3524e97475c094.ttf",
+        "/test-angular-github-pages/fa-regular-400.c52405129ae48097815d.woff2",
+        "/test-angular-github-pages/fa-solid-900.32267f3b4db33a7c85ee.ttf",
+        "/test-angular-github-pages/fa-solid-900.7eefe04dc985dd4ad38b.eot",
+        "/test-angular-github-pages/fa-solid-900.9451d5fee89b51a20f8a.woff2",
+        "/test-angular-github-pages/fa-solid-900.a940d584750708f5435c.woff"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/test-angular-github-pages/assets/images/logo-hz.png": "af52128a937f529eeb7224e7ce63b04eefe13fd2",
+    "/test-angular-github-pages/assets/images/my-island.png": "747194f005967c4c0ad01c581881d5edf74f9b33",
+    "/test-angular-github-pages/dxc.ico": "bef8f4218ae85771eab8fde8a43b0ec46016efb7",
+    "/test-angular-github-pages/fa-brands-400.31015e861aeb30ff8355.woff2": "509988477da79c146cb93fb728405f18e923c2de",
+    "/test-angular-github-pages/fa-brands-400.5818bbd07dfd7095920a.ttf": "66c86edfd13e63e0e981ce853335c28bc2d20cec",
+    "/test-angular-github-pages/fa-brands-400.607a77859353c0cc1882.eot": "a17db2a5a355befd089bb6e7d53c3d501bf9e827",
+    "/test-angular-github-pages/fa-brands-400.ee26f57bc9e3619b022b.woff": "8436788e76679c0485b62c80eb7512c6c2e34e88",
+    "/test-angular-github-pages/fa-regular-400.0747be4cba2f8600544f.eot": "6299f0e32575f73d8d897f87ce899827f99e20fe",
+    "/test-angular-github-pages/fa-regular-400.8b892b7904a39e37c53d.woff": "8469cb3d9c8189fea64f60aef2753509d770b8df",
+    "/test-angular-github-pages/fa-regular-400.c3146b3524e97475c094.ttf": "00f569f7d8ac2497a43b25dc4d3b32213bcea31b",
+    "/test-angular-github-pages/fa-regular-400.c52405129ae48097815d.woff2": "260bb01acd44d88dcb7f501a238ab968f86bef9e",
+    "/test-angular-github-pages/fa-solid-900.32267f3b4db33a7c85ee.ttf": "ff8f37dfad105796bd924d0db0d37a4ff252618c",
+    "/test-angular-github-pages/fa-solid-900.7eefe04dc985dd4ad38b.eot": "5be5944a17e8b32589a12fdc2b8a8570c9081db4",
+    "/test-angular-github-pages/fa-solid-900.9451d5fee89b51a20f8a.woff2": "75a88815c47a249eadb5f0edc1675957f860cca7",
+    "/test-angular-github-pages/fa-solid-900.a940d584750708f5435c.woff": "15c52209092ce0fb7210e40e2a01acc8b4a5c494",
+    "/test-angular-github-pages/index.html": "e9a2c2027de5a2a66a277a9f985a21b843ae71ec",
+    "/test-angular-github-pages/main-es2015.424e2310ff7b8b498dd5.js": "2734f328356c06e91462ffd77a46b319bfd27ad3",
+    "/test-angular-github-pages/main-es5.424e2310ff7b8b498dd5.js": "4ba510578c934152b5bb95cf97f1a3e3ccdd9162",
+    "/test-angular-github-pages/manifest.json": "1a03264603bbea36e5e267d06a01577f3dd5fe2e",
+    "/test-angular-github-pages/polyfills-es2015.0a605b9b77b7187e39e6.js": "3191c0829ca3243238583817b5c28446a592dd2f",
+    "/test-angular-github-pages/polyfills-es5.4d5edb2c6f4be45c0a91.js": "17ceae3cda4b8ec6b866ae8241640cb7a7434966",
+    "/test-angular-github-pages/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/test-angular-github-pages/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/test-angular-github-pages/styles.308ee81a3ecb050cc8d0.css": "fb9ad254720396238bce4fcb74404e4ea4a34444"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
