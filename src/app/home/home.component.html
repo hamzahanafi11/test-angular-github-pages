@@ -1,0 +1,9 @@
+<div class="container">
+  <div class="jumbotron text-center">
+    <h1>
+      <span translate>First API test</span>
+    </h1>
+    <app-loader [isLoading]="isLoading"></app-loader>
+    <q [hidden]="isLoading">{{ quote | json }}</q>
+  </div>
+</div>

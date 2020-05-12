@@ -1,0 +1,15 @@
+/* remove this styling to make the loader fit inside it's div */
+i {
+  margin-top: 30%;
+}
+
+div {
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 99999;
+  width: 100%;
+  height: 100%;
+  color: #aabbdd;
+  background-color: rgba(76, 91, 115, 0.2);
+}
