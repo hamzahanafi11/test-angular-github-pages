@@ -2,12 +2,14 @@
 @import "~bootstrap/scss/mixins/_breakpoints";
 
 .background-login {
-  background-image: url(../../assets/images/globalLocation.png);
+  background-image: url(../../assets/images/my-island.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
-
+.card{
+  background-color: #68684f54;
+}
 .third-block {
   padding-top: 30px;
 }
